@@ -2,10 +2,10 @@ apply plugin: 'java'
 apply plugin: 'maven'
 apply plugin: 'eclipse'
 
-group = 'MAMEHubClient'
-version = '0.0.1-SNAPSHOT'
+group = 'LeapsterClient'
+version = '0.0.2-SNAPSHOT'
 
-description = """MAMEHub Client"""
+description = """leapfrog Client"""
 
 sourceCompatibility = 1.7
 targetCompatibility = 1.7
