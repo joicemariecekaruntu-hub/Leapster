@@ -1,4 +1,4 @@
-echo "Need admin password to install packages"
+
 sudo apt-get install wget libfontconfig1-dev libgconf2-dev libgtk2.0-dev libsdl2-ttf-dev yasm libqt4-dev aria2 libSDL2-dev
 MACHINE_TYPE=`uname -m`
 if [ ${MACHINE_TYPE} == 'x86_64' ]; then
