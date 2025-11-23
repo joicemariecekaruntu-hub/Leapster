@@ -47,6 +47,6 @@ The MAMEHub Client uses [Gradle](https://www.gradle.org/).  To build the client,
 
     gradle solid
 
-Maven will automatically download the dependencies and build MAMEHub.  Then to run your client, run this command:
+Maven will automatically download the dependencies and build Leapster.  Then to run your client, run this command:
 
-    java -jar solid/MAMEHubClient-0.0.1-SNAPSHOT.jar
+    java -jar solid/LeapsterClient-0.0.1-SNAPSHOT.jar
